@@ -1,3 +1,3 @@
 # VR Racing game
 
-Dit project is gecreëerd om te experimenteren met VR en AI gegenereerd uit Machine learning. Het is gemaakt voor de oculus quest 2 d.m.v. Unity. Ondanks dat het een onafgewerkt product is, heb ik hier veel uit bijgeleerd.
+Dit project is gecreëerd om te experimenteren met Virtual Reality en Artificial Intelligence (door Machine learning). Het is gemaakt voor de Oculus Quest 2 d.m.v. Unity game engine. Ondanks dat het een onafgewerkt product is, Heeft dit veel inzicht geboden in Game development, VR en AI.
